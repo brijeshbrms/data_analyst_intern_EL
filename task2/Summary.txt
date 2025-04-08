@@ -1,0 +1,40 @@
+# Task 2 – Data Cleaning and Visualization (08/04/2025)
+
+## ✅ Objectives:
+- Sync GitHub repository from local to global using Git.
+- Import product sales data into Power BI.
+- Perform data transformation and cleaning.
+- Handle missing values and create calculated columns.
+
+## 🔧 Steps Performed:
+
+1. **GitHub Workflow**  
+   - Learned how to sync local repository to remote (GitHub) using Git CLI.
+   - Committed and pushed code from local to GitHub after each task step.
+
+2. **Data Import**  
+   - Imported raw product sales data (.csv) into Power BI.
+
+3. **Data Transformation**  
+   - Corrected incorrect data types (e.g., dates, numbers, text).
+   - Removed duplicates and normalized text fields for consistency.
+
+4. **Null Value Handling**  
+   - Used Power BI's Merge Query to fill missing values from reference tables.
+   - Created new calculated columns using DAX formulas for analysis.
+
+## 📊 Tools Used:
+- **GitHub**
+- **Power BI Desktop**
+- **Microsoft Excel** (for pre-checking the dataset)
+
+## 📁 Files Included:
+- `store+data.xlsx
+- `task2.pbix` – Power BI project file
+- `summary.txt` – Documentation
+
+---
+
+## 🔍 Outcome:
+- Clean and enriched dataset ready for dashboard creation.
+- Improved understanding of syncing GitHub repo and Power BI transformations.

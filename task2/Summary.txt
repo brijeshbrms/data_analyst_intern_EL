@@ -5,6 +5,7 @@
 - Import product sales data into Power BI.
 - Perform data transformation and cleaning.
 - Handle missing values and create calculated columns.
+- Data Visualisation perform with PowerBI
 
 ## 🔧 Steps Performed:
 
@@ -22,6 +23,17 @@
 4. **Null Value Handling**  
    - Used Power BI's Merge Query to fill missing values from reference tables.
    - Created new calculated columns using DAX formulas for analysis.
+
+5  **Data Visualisation**  
+      1) Top/Bottom 5 product by Sales/Profit/Quantity Sold.
+      2) How do sales trends vary over time (daily, monthly, quarterly, annually) ?
+      3) Show relationship between sales & profit.
+      4) Compare sales/profit/quantity sold between any two periods selected by the user.
+      5) Average discount offered in each discount category.
+      6) Total number of orders.
+      7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion          Categories)
+      8) Show sales by different cities.
+         - 
 
 ## 📊 Tools Used:
 - **GitHub**

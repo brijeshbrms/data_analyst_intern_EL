@@ -1,0 +1,24 @@
+Key Findings from Titanic Dataset EDA:
+
+1. Survival Rate:
+   - Overall survival rate was 38.4% (342 survivors out of 891 passengers).
+   
+2. Gender:
+   - Women had a much higher survival rate (74.2%) compared to men (18.9%).
+   - This supports the "women and children first" policy.
+   
+3. Passenger Class:
+   - 1st class passengers had the highest survival rate (62.9%).
+   - 2nd class passengers had a survival rate of 47.3%.
+   - 3rd class passengers had the lowest survival rate (24.2%).
+   - Clear socioeconomic factor in survival chances.
+   
+4. Age:
+   - Children (0-12) had a higher survival rate compared to adults.
+   - Most passengers were adults between 20-40 years old.
+   - Age distribution shows missing values (177 missing).
+5. Missing Data:
+    - Age: 19.9% missing
+    - Cabin: 77.5% missing
+    - Embarked: 0.2% missing
+    - These gaps require attention for model building.
